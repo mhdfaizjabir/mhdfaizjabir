@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Mohammad faiz Jabir 
-- 👀 I’m interested in > Reading Books
-                       > Web Surfing 
+- 👋 Hi, I’m Mohammad Faiz Jabir 
+- 👀 I’m interested in > Web Surfing
                        > Volunteering
-                       > Photography
-                       > Sports
-                       > Music  
-- 🌱 I’m currently learning BTech  Computer Science Engineering (Data Science specilization in Artificial Intillegence & MAchine Learning) , at {Lovely Proffesional University, Punjab}
-- 📫 How to reach me ...Via Instagram- _ziaf_
+                       > Billiards
+- 🌱 I’m currently learning Bachelor of Applied Science in Data Science & Artificial Intillegence & MAchine Learning , at {Univeristy of Doha for Science and Technology, Qatar}
+- 📫 How to reach me ...Via Email - faizjabir003@gmail.com
 
 <!---
 mhdfaizjabir/mhdfaizjabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
