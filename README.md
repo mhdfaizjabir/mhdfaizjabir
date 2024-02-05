@@ -2,7 +2,7 @@
 - 👀 I’m interested in > Web Surfing
                        > Volunteering
                        > Billiards
-- 🌱 I’m currently learning Bachelor of Applied Science in Data Science & Artificial Intillegence & MAchine Learning , at {Univeristy of Doha for Science and Technology, Qatar}
+- 🌱 I’m currently learning Bachelor of Applied Science in Data Science & Artificial Intillegence & Machine Learning , at {Univeristy of Doha for Science and Technology, Qatar}
 - 📫 How to reach me ...Via Email - faizjabir003@gmail.com
 
 <!---
