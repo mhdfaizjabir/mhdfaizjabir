@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohammad Faiz Jabir
+#  Hi, I’m Mohammad Faiz Jabir 👋🏽  
 
 I'm a 20-year-old developer based in Doha,QATAR.I'm passionate about crafting digital experiences.
 
@@ -7,12 +7,15 @@ I'm a 20-year-old developer based in Doha,QATAR.I'm passionate about crafting di
   
 ## 📦 Toolbox
 
-Frontend Development: Html, CSS, JavaScript
-Backend Development: Node.js, Express.js, MongoDB, MySQL
+**Frontend Development:** `hTML` `CSS` `JavaScript` 
 
-Programming Languages: Python, Java
+**Backend Development:** `Node.js` `Express.js` 
+ 
+**Programming Language:** `Python` `Java` 
 
-Version Control: Git, GitLab
+**DataBase:** `MySQL` `MongoDB` 
+
+**Version Control:** `Git` `GitLab` 
 
 
 ## ✨ Fun Facts
@@ -24,4 +27,10 @@ Version Control: Git, GitLab
 ## 📫 Contact
 
 For a quick response, you can reach out to me via - faizjabir003@gmail.com.
+
+
+ 
+## 📦 Toolbox
+
+
 
