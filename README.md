@@ -1,11 +1,28 @@
-- 👋 Hi, I’m Mohammad Faiz Jabir 
-- 👀 I’m interested in > Web Surfing
-                       > Volunteering
-                       > Billiards
-- 🌱 I’m currently learning Bachelor of Applied Science in Data Science & Artificial Intillegence & Machine Learning , at {Univeristy of Doha for Science and Technology, Qatar}
-- 📫 How to reach me ...Via Email - faizjabir003@gmail.com
+# 👋 Hi, I’m Mohammad Faiz Jabir
 
-<!---
-mhdfaizjabir/mhdfaizjabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a 20-year-old developer based in Doha,QATAR.I'm passionate about crafting digital experiences.
+
+- 🌱 I’m currently learning Bachelor of Applied Science in Data Science & Artificial Intelligence & Machine Learning at [University of Doha for Science & Technoology, Qatar].
+
+  
+## 📦 Toolbox
+
+Frontend Development: React, Next.js, TypeScript, Tailwind, Material-UI, Framer-Motion
+
+Backend Development: Node.js, Express.js, MongoDB, MySQL
+
+Programming Languages: Python, Java
+
+Version Control: Git, GitLab
+
+
+## ✨ Fun Facts
+
+- As a kid,I wanted to be a Scientist.
+- I love to cook.
+
+
+## 📫 Contact
+
+For a quick response, you can reach out to me via - faizjabir003@gmail.com.
+
