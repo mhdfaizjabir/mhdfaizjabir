@@ -7,13 +7,13 @@ I'm a 20-year-old developer based in Doha,QATAR.
   
 ## 📦 Toolbox
 
-**Frontend Development:** `hTML` `CSS` `JavaScript` 
-
-**Backend Development:** `Node.js` `Express.js` 
- 
 **Programming Language:** `Python` `Java` 
  
 **Python Library:** `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn` `Keras`  
+
+**Frontend Development:** `hTML` `CSS` `JavaScript` 
+
+**Backend Development:** `Node.js` `Express.js` 
 
 **DataBase:** `MySQL` `MongoDB` 
 
