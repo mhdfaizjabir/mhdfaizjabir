@@ -1,6 +1,6 @@
 #  Hi, I’m Mohammad Faiz Jabir 👋🏽  
 
-I'm a 20-year-old developer based in Doha,QATAR.I'm passionate about crafting digital experiences.
+I'm a 20-year-old developer based in Doha,QATAR.
 
 - 🌱 I’m currently learning Bachelor of Applied Science in Data Science & Artificial Intelligence & Machine Learning at [University of Doha for Science & Technoology, Qatar].
 
@@ -12,6 +12,8 @@ I'm a 20-year-old developer based in Doha,QATAR.I'm passionate about crafting di
 **Backend Development:** `Node.js` `Express.js` 
  
 **Programming Language:** `Python` `Java` 
+ 
+**Python Library:** `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn` `Keras`  
 
 **DataBase:** `MySQL` `MongoDB` 
 
