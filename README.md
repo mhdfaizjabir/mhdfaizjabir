@@ -11,7 +11,7 @@ I'm a 20-year-old developer based in Doha,QATAR.
  
 **Python Library:** `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn` `Keras`  
 
-**Frontend Development:** `hTML` `CSS` `JavaScript` 
+**Frontend Development:** `HTML` `CSS` `JavaScript` 
 
 **Backend Development:** `Node.js` `Express.js` 
 
