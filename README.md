@@ -28,7 +28,8 @@ I'm a 20-year-old developer based in Doha,QATAR.
 
 ## 📫 Contact
 
-For a quick response, you can reach out to me via - faizjabir003@gmail.com.
+For a quick response, you can reach out to me via - faizjabir003@gmail.com , DM me on [LinkedIn](https://www.linkedin.com/in/mohammad-faiz-jabir/). 
+ 
 
 
 
