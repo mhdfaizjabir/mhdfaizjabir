@@ -17,6 +17,8 @@ I'm a 20-year-old developer based in Doha,QATAR.
 
 **DataBase:** `MySQL` `MongoDB` 
 
+**Business Intelligence Tools:** `Power BI`
+
 **Version Control:** `Git` `GitLab` 
 
 
