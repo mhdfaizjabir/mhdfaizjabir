@@ -1,8 +1,8 @@
 #  Hi, I’m Mohammad Faiz Jabir 👋🏽  
 
-I'm a 20-year-old developer based in Doha,QATAR.
+I'm a 21-year-old developer based in Doha,QATAR.
 
-- 🌱 I’m currently learning Bachelor of Applied Science in Data Science & Artificial Intelligence & Machine Learning at [University of Doha for Science & Technoology, Qatar].
+- 🌱 I’m currently learning Bachelor of Applied Science in Data Science & Artificial Intelligence at [University of Doha for Science & Technoology, Qatar].
 
   
 ## 📦 Toolbox
