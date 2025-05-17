@@ -9,18 +9,19 @@ I'm a 21-year-old developer based in Doha,QATAR.
 
 **Programming Language:** `Python` `Java` 
  
-**Python Library:** `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn` `Keras`  
+**Python Library:** `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn` `Streamlit`
 
 **Frontend Development:** `HTML` `CSS` `JavaScript` 
 
-**Backend Development:** `Node.js` `Express.js` 
+**Backend Development:** `Node.js` `Express.js` `FastAPI`
 
 **DataBase:** `MySQL` `MongoDB` 
 
-**Business Intelligence Tools:** `Power BI`
+**Business Intelligence Tools:** `Power BI` `Qlik View`
 
 **Version Control:** `Git` `GitLab` 
 
+**Testing:** `Postman`
 
 ## ✨ Fun Facts
 
