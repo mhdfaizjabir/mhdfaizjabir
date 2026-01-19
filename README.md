@@ -23,11 +23,6 @@ I'm a 22-year-old developer based in Doha,QATAR.
 
 **Testing:** `Postman`
 
-## ✨ Fun Facts
-
-- As a kid,I wanted to be a Scientist.
-- I love to cook.
-
 
 ## 📫 Contact
 
