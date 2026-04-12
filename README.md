@@ -1,4 +1,4 @@
-#  Hi, I’m Mohammad Faiz Jabir 👋🏽  
+#  Hi, I’m Faiz Jabir 👋🏽  
 
 I'm a 22-year-old developer based in Doha,QATAR.
 
