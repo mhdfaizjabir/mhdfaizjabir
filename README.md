@@ -16,9 +16,7 @@ I build **AI systems and full-stack products**, from data pipelines and model ev
 
 ## About
 
-I'm a Data Science and Artificial Intelligence student who builds complete products. I work across data preparation, model development, evaluation, backend APIs, databases, and user-facing interfaces.
-
-My background combines **AI engineering, machine learning, and full-stack development**. I build frontends with React and Next.js, develop services with FastAPI, Node.js, and Express, and work with relational, document, and vector databases. I focus on RAG, agentic systems, and applied ML, with an emphasis on reliable results and software people can use.
+I build AI systems end to end, turning complex data, documents, and models into reliable products people can use. From idea to deployment, I bring every part together and make it work.
 
 ## Tech
 
