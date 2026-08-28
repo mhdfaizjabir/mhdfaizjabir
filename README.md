@@ -4,9 +4,9 @@
 
 ### AI / GenAI Engineer · Applied AI Researcher
 
-I build production-minded **RAG pipelines, agentic systems, and machine-learning products**—from retrieval and evaluation to APIs and user-facing applications.
+I build **AI systems and full-stack products**, from data pipelines and model evaluation to APIs and user-facing applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://mhdfaizjabir.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faiz-jabir/) [![Email](https://img.shields.io/badge/Email-faizjabir003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faizjabir003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faiz-jabir/) [![Email](https://img.shields.io/badge/Email-faizjabir003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faizjabir003@gmail.com)
 
 📍 Doha, Qatar · Open to AI Engineer / GenAI Engineer opportunities
 
@@ -16,20 +16,20 @@ I build production-minded **RAG pipelines, agentic systems, and machine-learning
 
 ## About
 
-I turn complex data and documents into deployed, source-traceable AI products. My work spans **hybrid retrieval, text-to-SQL, embedding search, agent orchestration, prompt engineering, and LLM evaluation**, with particular attention to hallucination control and dependable system behavior.
+I'm a Data Science and Artificial Intelligence student who enjoys owning the whole build. I can move from data preparation and model development to the backend API, database, and frontend that people use.
 
-At QCRI, I built a bilingual job-market intelligence pipeline over **30K+ postings**. At TCS, I developed enterprise RAG systems for policy documents and handwritten/scanned content. Alongside engineering, I conduct applied research in clinical referral classification and build end-to-end ML systems across healthcare, finance, and enterprise AI.
+My university work gave me a foundation in **frontend and backend development** alongside machine learning. I have built interfaces with React and Next.js, services with FastAPI, Node.js, and Express, and data layers using SQL, MongoDB, Firebase, and vector databases. I now focus on RAG, agents, evaluation, and applied ML while keeping the product around the model practical and easy to use.
 
-## Technical toolkit
+## Tech
 
-**LLM & AI engineering**<br>
-`RAG` `Agentic Systems` `LangGraph` `LangSmith` `Prompt Engineering` `Embeddings` `Qdrant` `ChromaDB` `Cross-Encoder Reranking` `LLM Evaluation`
+**AI & machine learning**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-6C3FC5?style=flat-square&logo=googlegemini&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-0B3B2E?style=flat-square&logo=langchain&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-**Machine learning & data**<br>
-`Python` `SQL` `Pandas` `NumPy` `scikit-learn` `XGBoost` `TensorFlow` `Keras` `SHAP` `Optuna` `Apache Spark` `PySpark`
+**Frontend & backend**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Product & cloud**<br>
-`FastAPI` `Next.js` `React` `Streamlit` `AWS` `GCP` `BigQuery` `Vertex AI` `Git` `GitHub` `Postman`
+**Data, cloud & tools**<br>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## Experience
 
@@ -53,20 +53,6 @@ Researching automated clinical referral categorization with traditional ML and L
 
 </details>
 
-## Selected work
-
-| Project | What I built | Stack / result |
-|---|---|---|
-| [Job-Market Intelligence RAG](https://github.com/mhdfaizjabir/jobmarket_bot) | Bilingual analytics and grounded Q&A over 30K+ Gulf job postings | Hybrid RAG · Qdrant · BM25 · FastAPI · Next.js |
-| [Handwritten Hierarchy RAG](https://github.com/mhdfaizjabir/Handwritten-Hierarchy-RAG) | Dual-ingestion RAG for handwritten, scanned, and layout-rich documents | VLM OCR · LlamaParse · Hierarchical retrieval |
-| [HR Policy Assistant](https://github.com/mhdfaizjabir/hr_policy_assistant) | Multi-turn EN/AR enterprise assistant across nine policy documents | React · Python · LangSmith · 93% evaluation accuracy |
-| [Voca](https://github.com/mhdfaizjabir/voca) | Voice-based interview and viva practice grounded in uploaded material | Voice AI · RAG · Structured evaluation |
-| [Circuit Hiring Platform](https://github.com/mhdfaizjabir/circuit-hiring-platform) | Auditable agentic hiring workflow with deterministic state transitions | Agents · FSM · Append-only event log |
-| [Indoor Localization](https://github.com/mhdfaizjabir/indoor_localization) | Wi-Fi fingerprinting across 520 WAP features | PCA · KNN · CNN · 99.85% building accuracy |
-| [Credit Risk Modeling](https://github.com/mhdfaizjabir/CreditCardRiskScore) | End-to-end default-risk pipeline and API over 37K+ records | XGBoost · Optuna · FastAPI · AUC 0.98 |
-
-Explore more in my [repositories](https://github.com/mhdfaizjabir?tab=repositories) or see the full case studies on my [portfolio](https://mhdfaizjabir.github.io/#projects).
-
 ## Recognition
 
 - 🥉 **3rd Place — QSTP × YEC Summer BootCamp Hackathon (2026):** led the team behind *Resonance*, an AI pre-launch marketing simulator using synthetic Qatar consumer personas.
@@ -84,8 +70,6 @@ University of Doha for Science and Technology · 2022–2026 · Doha, Qatar
 
 <div align="center">
 
-**Building AI systems that are useful, measurable, and grounded in evidence.**
-
-[Portfolio](https://mhdfaizjabir.github.io) · [LinkedIn](https://www.linkedin.com/in/mohammad-faiz-jabir/) · [Email](mailto:faizjabir003@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohammad-faiz-jabir/) · [Email](mailto:faizjabir003@gmail.com)
 
 </div>
