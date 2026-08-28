@@ -6,9 +6,7 @@
 
 I build production-minded **RAG pipelines, agentic systems, and machine-learning products**—from retrieval and evaluation to APIs and user-facing applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://mhdfaizjabir.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faiz-jabir/)
-[![Email](https://img.shields.io/badge/Email-faizjabir003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faizjabir003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://mhdfaizjabir.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faiz-jabir/) [![Email](https://img.shields.io/badge/Email-faizjabir003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faizjabir003@gmail.com)
 
 📍 Doha, Qatar · Open to AI Engineer / GenAI Engineer opportunities
 
