@@ -16,9 +16,9 @@ I build **AI systems and full-stack products**, from data pipelines and model ev
 
 ## About
 
-I'm a Data Science and Artificial Intelligence student who enjoys owning the whole build. I can move from data preparation and model development to the backend API, database, and frontend that people use.
+I'm a Data Science and Artificial Intelligence student who builds complete products. I work across data preparation, model development, evaluation, backend APIs, databases, and user-facing interfaces.
 
-My university work gave me a foundation in **frontend and backend development** alongside machine learning. I have built interfaces with React and Next.js, services with FastAPI, Node.js, and Express, and data layers using SQL, MongoDB, Firebase, and vector databases. I now focus on RAG, agents, evaluation, and applied ML while keeping the product around the model practical and easy to use.
+My background combines **AI engineering, machine learning, and full-stack development**. I build frontends with React and Next.js, develop services with FastAPI, Node.js, and Express, and work with relational, document, and vector databases. I focus on RAG, agentic systems, and applied ML, with an emphasis on reliable results and software people can use.
 
 ## Tech
 
@@ -36,38 +36,38 @@ My university work gave me a foundation in **frontend and backend development** 
 
 ## Experience
 
-**AI Research & Development Intern — Qatar Computing Research Institute (QCRI)** · May–Jul 2026<br>
+**AI Research & Development Intern | Qatar Computing Research Institute (QCRI)** · May to July 2026<br>
 Designed a bilingual hybrid RAG platform combining SQL analytics, pandas statistics, Qdrant vector search, BM25, reciprocal-rank fusion, and cross-encoder reranking. Built an EN/AR evaluation benchmark that reached **82.5% overall accuracy**.
 
-**AI Engineer Intern — Tata Consultancy Services (TCS)** · Apr–Jul 2026<br>
+**AI Engineer Intern | Tata Consultancy Services (TCS)** · April to July 2026<br>
 Built a full-stack, bilingual HR-policy RAG assistant with LangSmith tracing and LLM-as-judge evaluation reaching **93% accuracy**. Extended hierarchical RAG to handwritten and scanned documents using vision-language OCR and layout-aware extraction.
 
-**Undergraduate Research Assistant — University of Doha for Science and Technology** · Jul 2025–Present<br>
+**Undergraduate Research Assistant | University of Doha for Science and Technology** · July 2025 to Present<br>
 Researching automated clinical referral categorization with traditional ML and LLM-based classification, benchmarking accuracy, consistency, and task suitability.
 
 <details>
 <summary><b>More experience</b></summary>
 <br>
 
-- **Marketing & Communication Intern, Lusail International Circuit** — supported Formula 1 promotional coordination and live-event audience engagement.
-- **Tech Intern, Experience Tours and Events Services** — analyzed survey data, improved SEO across 80+ listings, and coordinated CRM/IVR integration.
-- **Administrative Support Assistant, Pride Deal Trading** — digitized invoice, quotation, reporting, and order-processing workflows.
-- **Special Events Team, FIFA World Cup Qatar 2022** — supported event logistics and pre-event operations.
+- **Marketing & Communication Intern, Lusail International Circuit:** supported Formula 1 promotional coordination and live-event audience engagement.
+- **Tech Intern, Experience Tours and Events Services:** analyzed survey data, improved SEO across 80+ listings, and coordinated CRM/IVR integration.
+- **Administrative Support Assistant, Pride Deal Trading:** digitized invoice, quotation, reporting, and order-processing workflows.
+- **Special Events Team, FIFA World Cup Qatar 2022:** supported event logistics and pre-event operations.
 
 </details>
 
 ## Recognition
 
-- 🥉 **3rd Place — QSTP × YEC Summer BootCamp Hackathon (2026):** led the team behind *Resonance*, an AI pre-launch marketing simulator using synthetic Qatar consumer personas.
-- 🥈 **2nd Place / Technical Track — Build for QSTP Hackathon, Stars of Science (2026):** led development of *Post Pulse*, a multimodal marketing workspace spanning six platforms.
-- 🏅 **Runner-Up — Scale AI × UHub Sprint (2026):** built *Lamaar*, an AI-powered candidate screening and shortlisting platform.
-- 🏅 **Top 2 — UDST Skills Day, Data Science & AI (2026):** analyzed vehicle telemetry and performance signals under competition constraints.
-- 🏅 **Finalist — Qatar Insurance Company AI Hackathon (2025):** led Team ECHO to a Top 5 finish with *QIC LIFE+*.
+- 🥉 **3rd Place | QSTP × YEC Summer BootCamp Hackathon (2026):** led the team behind *Resonance*, an AI pre-launch marketing simulator using synthetic Qatar consumer personas.
+- 🥈 **2nd Place / Technical Track | Build for QSTP Hackathon, Stars of Science (2026):** led development of *Post Pulse*, a multimodal marketing workspace spanning six platforms.
+- 🏅 **Runner-Up | Scale AI × UHub Sprint (2026):** built *Lamaar*, an AI-powered candidate screening and shortlisting platform.
+- 🏅 **Top 2 | UDST Skills Day, Data Science & AI (2026):** analyzed vehicle telemetry and performance signals under competition constraints.
+- 🏅 **Finalist | Qatar Insurance Company AI Hackathon (2025):** led Team ECHO to a Top 5 finish with *QIC LIFE+*.
 
 ## Education
 
 **Bachelor of Applied Science in Data Science and Artificial Intelligence**<br>
-University of Doha for Science and Technology · 2022–2026 · Doha, Qatar
+University of Doha for Science and Technology · 2022 to 2026 · Doha, Qatar
 
 ---
 
