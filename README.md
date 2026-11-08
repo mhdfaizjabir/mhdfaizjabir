@@ -49,7 +49,7 @@ Researching automated clinical referral categorization with traditional ML and L
 
 - **Marketing & Communication Intern, Lusail International Circuit:** supported Formula 1 promotional coordination and live-event audience engagement.
 - **Tech Intern, Experience Tours and Events Services:** analyzed survey data, improved SEO across 80+ listings, and coordinated CRM/IVR integration.
-- **Administrative Support Assistant, Pride Deal Trading:** digitized invoice, quotation, reporting, and order-processing workflows.
+- **Data Administrative Support Assistant, Pride Deal Trading:** digitized invoice, quotation, reporting, and order-processing workflows.
 - **Special Events Team, FIFA World Cup Qatar 2022:** supported event logistics and pre-event operations.
 
 </details>
