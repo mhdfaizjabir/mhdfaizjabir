@@ -56,6 +56,7 @@ Researching automated clinical referral categorization with traditional ML and L
 
 ## Recognition
 
+- 🏅 **Finalist | Qai × Hugging Face Hackathon (2026):** led a team of 4 to the Top 15 of 45 teams with *SITEWISE*, an AI auditor for construction payment claims in Qatar.
 - 🥉 **3rd Place | QSTP × YEC Summer BootCamp Hackathon (2026):** led the team behind *Resonance*, an AI pre-launch marketing simulator using synthetic Qatar consumer personas.
 - 🥈 **2nd Place / Technical Track | Build for QSTP Hackathon, Stars of Science (2026):** led development of *Post Pulse*, a multimodal marketing workspace spanning six platforms.
 - 🏅 **Runner-Up | Scale AI × UHub Sprint (2026):** built *Lamaar*, an AI-powered candidate screening and shortlisting platform.
